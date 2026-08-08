@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/wender-vieira-marques-j%C3%BAnior-2a72b122b/" target="_blank">
+  <a href="https://www.linkedin.com/in/wender-junior/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=wender13&label=Profile%20Views&color=blue&style=for-the-badge" height="25" alt="visitor badge" />
