@@ -1,49 +1,24 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Hello Gif" />
-</div>
+# 💫 About Me:
+🔭 I’m currently working on Fullstack devlopment with vue.js, java, rust lang, tauri, mysql and sqlite<br>🌱 I’m currently learning Rust and Tauri
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/wender-junior/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=wender13&label=Profile%20Views&color=blue&style=for-the-badge" height="25" alt="visitor badge" />
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wender-junior) 
 
-###
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Wender13&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Wender13&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Wender13&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h1 align="center">Hey there 👋</h1>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Wender13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Wender13&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">👩‍💻 About Me</h3>
+---
+[![](https://komarev.com/ghpvc/?username=Wender13&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<p align="left">
-  I'm from Brazil 🇧🇷<br>
-  📚 I'm currently learning Fullstack Development
-</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-<div align="left">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="bootstrap" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vue" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats:</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=wender13&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
